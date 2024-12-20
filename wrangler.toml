@@ -1,11 +1,11 @@
-name = "telkom"
+name = "herza"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "36.95.152.58"
-UUID = "eac5a749-71d4-4b98-93e4-75f682421268"
+PROXYIP = "103.168.146.169"
+UUID = "9664bcd8-d935-4ec4-b307-e3461dad804d"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
