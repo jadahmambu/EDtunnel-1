@@ -1,4 +1,4 @@
-name = "vlesscf"
+name = "vlesscfku"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 PROXYIP = "103.150.116.121"
-UUID = "98c121a5-abd1-4309-b3a8-b34a95f09ff7"
+UUID = "c87209c4-9566-4c98-ba02-a5df7a1892a1"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
