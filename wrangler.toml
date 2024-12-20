@@ -1,11 +1,11 @@
-name = "hakaidok"
+name = "vlesscf"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "103.110.91.198"
-UUID = "c8975ae2-bcc2-44fc-9609-41e160b063db"
+PROXYIP = "103.150.116.121"
+UUID = "98c121a5-abd1-4309-b3a8-b34a95f09ff7"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
